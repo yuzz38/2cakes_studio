@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# После настройки настоящего URL добавьте строку Sitemap.
+# https://2cakes.example/ в sitemap.xml — заменяемый пример.
